@@ -1,0 +1,2 @@
+# agffranklen-Healthcare-Monitoring-using-Line-Follower-Robot-Using-LiFi
+The project integrates a line-following robot with Li-Fi for automated healthcare monitoring. It autonomously navigates hospital corridors, delivering medicines and collecting patient data via biosensors. Li-Fi ensures fast, interference-free transmission, improving hospital automation, emergency response, and contactless healthcare. 
